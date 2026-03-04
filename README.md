@@ -18,7 +18,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=birendrachy7&" alt="birendrachy7" /></p>
 
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/birendrachy7/birendrachy7/output/snake.svg" alt="Snake animation" />

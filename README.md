@@ -8,7 +8,7 @@ Currently developing my skills to become a Security Analyst.
 
 ---
 
-### 🌱 Currently Learning
+###  Currently Learning
 - Cyber Security Fundamentals
 - Linux System Administration
 - Networking Basics
@@ -17,17 +17,17 @@ Currently developing my skills to become a Security Analyst.
 
 ---
 
-### 🎯 Career Goal
+###  Career Goal
 To build a strong foundation in Cyber Security and grow into a **Security Analyst** role where I can help identify vulnerabilities and secure systems.
 
 ---
 
-### 📫 Contact Me
+###  Contact Me
 Email: **info.birendra008@gmail.com**
 
 ---
 
-### 🌐 Connect With Me
+###  Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/birendra.chy.7" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
@@ -40,7 +40,7 @@ Email: **info.birendra008@gmail.com**
 
 ---
 
-### 💻 Languages and Tools
+###  Languages and Tools
 <p align="left">
 
 <a href="https://www.python.org" target="_blank">
@@ -71,12 +71,12 @@ Email: **info.birendra008@gmail.com**
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=birendrachy7&" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+###  Contribution Snake
 <img src="https://raw.githubusercontent.com/birendrachy7/birendrachy7/output/snake.svg" alt="Snake animation" />

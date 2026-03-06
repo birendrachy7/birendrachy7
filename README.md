@@ -71,7 +71,7 @@ Email: **info.birendra008@gmail.com**
 
 ###  GitHub Stats
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=birendrachy7&" />
+<img src="https://streak-stats.demolab.com?user=birendrachy7&theme=dark" />
 </p>
 
 ---

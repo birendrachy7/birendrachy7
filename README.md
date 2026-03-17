@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Birendra Chaudhary</h1>
-<h3 align="center">Computer Engineering Student | Aspiring Cyber Security Analyst</h3>
+<h3 align="center">Computer Engineering Student | Aspiring Networking & Security Analyst</h3>
 
 <p align="center">
 Passionate about Cyber Security, Linux systems, networking, and building secure applications.
-Currently developing my skills to become a Security Analyst.
 </p>
 
 ---
@@ -18,7 +17,7 @@ Currently developing my skills to become a Security Analyst.
 ---
 
 ###  Career Goal
-To build a strong foundation in Cyber Security and grow into a **Security Analyst** role where I can help identify vulnerabilities and secure systems.
+To build a strong foundation in Networking and Cyber Security and grow into a **Security Analyst** role where I can help identify vulnerabilities and secure systems.
 
 ---
 
@@ -31,10 +30,6 @@ Email: **info.birendra008@gmail.com**
 <p align="left">
 <a href="https://linkedin.com/in/birendra.chy.7" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-
-<a href="https://fb.com/biru.xhy7" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
 </a>
 </p>
 

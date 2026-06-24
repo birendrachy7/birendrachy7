@@ -133,14 +133,6 @@ I'm always open to connecting with fellow learners, collaborators, and mentors!
 
 ---
 
-<div align="center">
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/birendrachy7/birendrachy7/output/snake.svg)
-
----
-
 *"The secret of getting ahead is getting started."* — Mark Twain
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>

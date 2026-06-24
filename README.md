@@ -48,8 +48,7 @@ me.say_hi()
 | 📚 [Old Book Store](https://github.com/birendrachy7/Old-Book-Store) | Full-stack web app for buying, selling & managing old books. Includes user auth, email verification & wishlist | Flask · MySQL · HTML/CSS |
 | 🌐 [Portfolio](https://github.com/birendrachy7/Portfolio) | Personal portfolio website showcasing skills and projects | HTML · CSS · JS |
 | 🐍 [Python Zero To Hero](https://github.com/birendrachy7/Python_Zero_To_Hero) | 22-day structured Python & Data Science learning series | Python · NumPy · Pandas |
-| 🔐 [CCNA 200-301](https://github.com/birendrachy7/CCNA-200-301) | Study notes & labs for Cisco CCNA certification | Networking · Cisco |
-| 📡 [SNMP Network Monitoring Lab](https://github.com/birendrachy7/SNMP-Network-Monitoring-Lab) | SNMP-based monitoring using Cisco Packet Tracer & MIB Browser | Networking · SNMP |
+
 
 ---
 
@@ -76,16 +75,13 @@ me.say_hi()
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Security & Networking
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![SQL Server Management Studio](https://img.shields.io/badge/SSMS_22-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ---
 

@@ -47,7 +47,7 @@ me.say_hi()
 |---------|-------------|------------|
 | 📚 [Old Book Store](https://github.com/birendrachy7/Old-Book-Store) | Full-stack web app for buying, selling & managing old books. Includes user auth, email verification & wishlist | Flask · MySQL · HTML/CSS |
 | 🌐 [Portfolio](https://github.com/birendrachy7/Portfolio) | Personal portfolio website showcasing skills and projects | HTML · CSS · JS |
-| 🐍 [Python Zero To Hero](https://github.com/birendrachy7/Python_Zero_To_Hero) | 22-day structured Python & Data Science learning series | Python · NumPy · Pandas |
+| 🐍 [Python Zero To Hero](https://github.com/birendrachy7/Python_Zero_To_Hero) | Python learning series | Python |
 
 
 ---
@@ -82,22 +82,6 @@ me.say_hi()
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![SQL Server Management Studio](https://img.shields.io/badge/SSMS_22-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birendrachy7&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=birendrachy7&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
